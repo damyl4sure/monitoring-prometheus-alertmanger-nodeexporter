@@ -22,7 +22,7 @@ receivers:
           *Details:*
           {{ range .Labels.SortedPairs }} ... *{{ .Name }}:* `{{ .Value }}`
           {{ end }}
-          {{ end }}
+        {{ end }}
       send_resolved: true
       
 - name: 'web.hook'
