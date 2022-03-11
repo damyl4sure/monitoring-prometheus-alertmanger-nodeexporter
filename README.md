@@ -19,18 +19,19 @@ Nodeexporter grafana dashboard imported: 1860
 
 Install Alert Manager:
 Right Link: https://devconnected.com/alertmanager-and-prometheus-complete-setup-on-linux/ 
+
 https://www.youtube.com/watch?v=Gf9ITaSFlNU 
-https://github.com/ScottyFullStack/ge...
 
 https://www.scottyfullstack.com/blog/intro-to-monitoring-with-prometheus/ 
 
-#prometheus-alertmanager- rules
+# prometheus-alertmanager- rules
+
 https://awesome-prometheus-alerts.grep.to/rules.html#prometheus-self-monitoring 
 
 https://www.weave.works/blog/labels-in-prometheus-alerts-think-twice-before-using-them
 
 
-
 On K8s:
+
 https://devopscube.com/alert-manager-kubernetes-guide/ 
 
